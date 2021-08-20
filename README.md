@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akash-singha
-- 👀 I’m interested in web designing, photography, Critical Thinkimg, Machine Learning & Reading About Human Psychology & Philosophy.
+- 👀 I’m interested in web designing, photography, Critical Thinking, Machine Learning & Reading About Human Psychology & Philosophy.
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ...?
   >>I will update soon.
